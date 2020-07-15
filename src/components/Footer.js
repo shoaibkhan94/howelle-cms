@@ -3,9 +3,9 @@ import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+// import instagram from '../img/social/instagram.svg'
+// import twitter from '../img/social/twitter.svg'
+import linkedin from '../img/social/linkedin.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -25,11 +25,11 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item">
+                      <Link to="http://howelle.com" className="navbar-item">
                         Home
                       </Link>
                     </li>
-                    <li>
+                    {/*<li>
                       <Link className="navbar-item" to="/about">
                         About
                       </Link>
@@ -43,7 +43,7 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
-                    </li>
+                    </li>*/}
                     <li>
                       <a
                         className="navbar-item"
@@ -65,23 +65,23 @@ const Footer = class extends React.Component {
                         Latest Stories
                       </Link>
                     </li>
-                    <li>
+                    {/*<li>
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
-                    </li>
+                    </li>*/}
                   </ul>
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="https://www.facebook.com/Howelle-112623607190099/">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                {/*<a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -95,11 +95,11 @@ const Footer = class extends React.Component {
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>
-                <a title="vimeo" href="https://vimeo.com">
+                </a>*/}
+                <a title="LinkedIn" href="https://www.linkedin.com/company/howelle/">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={linkedin}
+                    alt="LinkedIn"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
