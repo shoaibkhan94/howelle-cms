@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.svg'
+import logo from '../img/logoweb.svg'
 import facebook from '../img/social/facebook.svg'
 // import instagram from '../img/social/instagram.svg'
 // import twitter from '../img/social/twitter.svg'
@@ -10,6 +10,8 @@ import linkedin from '../img/social/linkedin.svg'
 const Footer = class extends React.Component {
   render() {
     return (
+        <div></div>
+/*
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           <img
@@ -29,7 +31,7 @@ const Footer = class extends React.Component {
                         Home
                       </Link>
                     </li>
-                    {/*<li>
+                    {/!*<li>
                       <Link className="navbar-item" to="/about">
                         About
                       </Link>
@@ -43,7 +45,7 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
-                    </li>*/}
+                    </li>*!/}
                     <li>
                       <a
                         className="navbar-item"
@@ -65,11 +67,11 @@ const Footer = class extends React.Component {
                         Latest Stories
                       </Link>
                     </li>
-                    {/*<li>
+                    {/!*<li>
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
-                    </li>*/}
+                    </li>*!/}
                   </ul>
                 </section>
               </div>
@@ -81,7 +83,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                {/*<a title="twitter" href="https://twitter.com">
+                {/!*<a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -95,7 +97,7 @@ const Footer = class extends React.Component {
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>*/}
+                </a>*!/}
                 <a title="LinkedIn" href="https://www.linkedin.com/company/howelle/">
                   <img
                     src={linkedin}
@@ -108,6 +110,7 @@ const Footer = class extends React.Component {
           </div>
         </div>
       </footer>
+*/
     )
   }
 }
