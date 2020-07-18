@@ -28,7 +28,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
       - {label: "Featured Image", name: "featuredimage", widget: image}
-      - {label: "Category", name: "category", widget: "select", options: ["en", "us"], default: "en" } # Look Up Here for more Info ---> https://www.netlifycms.org/docs/widgets/#select
+      - {label: "Category", name: "category", widget: "select", options: ["Personality", "Mental Health", "Personal Growth", "Relationships", "Family Life", "Others"], default: "Personality" } # Look Up Here for more Info ---> https://www.netlifycms.org/docs/widgets/#select
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
