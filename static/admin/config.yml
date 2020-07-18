@@ -21,10 +21,14 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Author Description", name: "authordesc", widget: "string"}
+      - {label: "Author Image", name: "authorimage", widget: image} # For Further changes look up here ---> https://www.netlifycms.org/docs/widgets/#image
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
       - {label: "Featured Image", name: "featuredimage", widget: image}
+      - {label: "Category", name: "category", widget: "select", options: ["Personality", "Mental Health", "Personal Growth", "Relationships", "Family Life", "Others"], default: "Personality" } # Look Up Here for more Info ---> https://www.netlifycms.org/docs/widgets/#select
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
