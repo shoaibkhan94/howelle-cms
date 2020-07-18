@@ -11,6 +11,8 @@ tags:
   - "#mindisaroom #mind #mentalhealth #positivepsychology #positivethinking
     #positiveoutlook #life #selfgrowth #mentalgrowth"
 ---
+![The Room of my Mind](/img/2589.jpg "The Room of my Mind")
+
 A Tinder match of mine once asked me, “if your mind was a room, what would it look like?” An exciting question required an equally interesting answer. So, I started to think about the insides of my mind. The colors of the walls, the photo frames, the windows, the doors, the furniture and the items present in there. The Tinder guy was blocked, but his question still takes up a considerable part of my life.
 
 My room of mind looked exactly like what I was feeling at that point in time. It had exactly what I enjoy, books, some instruments and a comfy bed to relax. I went on to ask the same question to my friends, some said the room is messed up, some had black walls, some had closed doors, and some had an open, well ventilated, sunshine gleaming through the windows kind of room.
