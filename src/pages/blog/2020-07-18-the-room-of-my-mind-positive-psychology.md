@@ -12,8 +12,8 @@ featuredpost: true
 featuredimage: /img/2589.jpg
 category: Personal Growth
 tags:
-  - "#mindisaroom #mind #mentalhealth #positivepsychology #positivethinking
-    #positiveoutlook #life #selfgrowth #mentalgrowth"
+  - mindisaroom mind mentalhealth positivepsychology positivethinking
+    positiveoutlook life selfgrowth mentalgrowth
 ---
 ![The Room of my Mind](/img/2589.jpg "The Room of my Mind")
 
