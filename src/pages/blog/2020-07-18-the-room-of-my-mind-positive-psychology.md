@@ -1,12 +1,16 @@
 ---
 templateKey: blog-post
 title: "The Room of my Mind: Positive Psychology"
+author: Aditi Ladwal
+authordesc: Someone who lives by the quote "Date yourself, Make Yourself"
+authorimage: /img/img_20200720_132734.jpg
 date: 2020-07-18T04:30:38.083Z
 description: In this article, we talk about how to better understand ourselves
   and work on enhancing what and who we currently are, by looking at life
   through a positive glass.
 featuredpost: true
 featuredimage: /img/2589.jpg
+category: Personal Growth
 tags:
   - "#mindisaroom #mind #mentalhealth #positivepsychology #positivethinking
     #positiveoutlook #life #selfgrowth #mentalgrowth"
