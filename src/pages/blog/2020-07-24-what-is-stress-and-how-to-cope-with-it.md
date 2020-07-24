@@ -26,4 +26,5 @@ Stress is usually a negative emotion or feeling that brings about many emotional
 
 Distress can have many dangerous effects, both physically and mentally, on an individual. From health issues to drastic changes in the mood and behavior are all common effects of stress.
 
-*
+* Biological Effects - Biological effects are the most prominent effects of stress. The increase in heart rate is the biggest indicator of the body activation its fight or flight instincts. The blood pressure and blood sugar also increase along with the heart rate and breathing. The feeling of fatigue, dizziness and out of breath sensations are also extremely common. But stress can also have some long lasting biological effects. The excessive release of cortisol can be harmful for the human body. An individual who suffer's from chronic stress is also at risk for heart diseases and in certain cases even cancer. The hormones released while the body is undergoing stress can prevent the natural killer cells from protecting the body from cancerous cells. The development of ulcers as a direct result of stress is also possible. 
+* Psychological Effects -
