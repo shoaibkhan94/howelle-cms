@@ -27,4 +27,11 @@ Stress is usually a negative emotion or feeling that brings about many emotional
 Distress can have many dangerous effects, both physically and mentally, on an individual. From health issues to drastic changes in the mood and behavior are all common effects of stress.
 
 * Biological Effects - Biological effects are the most prominent effects of stress. The increase in heart rate is the biggest indicator of the body activation its fight or flight instincts. The blood pressure and blood sugar also increase along with the heart rate and breathing. The feeling of fatigue, dizziness and out of breath sensations are also extremely common. But stress can also have some long lasting biological effects. The excessive release of cortisol can be harmful for the human body. An individual who suffer's from chronic stress is also at risk for heart diseases and in certain cases even cancer. The hormones released while the body is undergoing stress can prevent the natural killer cells from protecting the body from cancerous cells. The development of ulcers as a direct result of stress is also possible. 
-* Psychological Effects -
+* Psychological Effects - Stress has various kinds of effects on the mind of an individual. There is a perceived lack of memory and concentration. The person is unable to pay much attention to anything other than the cause of their stress and how to handle it. There is a reported increase in anger and aggression levels, and the individual feels frustrated most of the time. Chronic stress can lead to the development of anxiety and depression, both of which can persist of a long period of time. Other than these common effects of stress, many individuals also develop psychosomatic disorders. Psychosomatic disorders are those where there is the presence of a physiological disorder/disease without the presence of a physiological cause. These disorders generally have a psychological aspect to them. 
+* Behavioral Effects - The behavior of a person going through chronic stress is drastically different from that of a person with mild levels of stress. Many people turn to smoking, drugs or alcohol to deal with stress. There is a marked change in the attitude as well and the person is more likely to be in a bad mood. Their behavior towards their family members also changes.   
+
+**Causes of Stress:**
+
+Stressed can be caused by a number of reasons in individuals. 
+
+* Biological Causes -
