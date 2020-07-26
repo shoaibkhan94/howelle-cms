@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: SIGNS OF A TRAUMATISED CHILD
+title: Signs of a Traumatized child
 author: Antonieta Contreras
 authordesc: Antonieta is a psychotherapist certified in Trauma Studies, Human
   sexuality, Neuro feedback, Contemplative psych… She is passionate about
