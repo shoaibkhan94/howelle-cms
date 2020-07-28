@@ -5,7 +5,7 @@ author: Tanishqa Nahata
 authordesc: Tanishqa is a student who is extremely passionate about psychology
   and aspires to make a career in this field.
 authorimage: /img/img_20200719_163010.jpg
-date: 2020-07-24T02:01:20.970Z
+date: 2020-07-24T02:00:00.000Z
 description: "Stress is a part of everyday life, and here we discuss its basic
   meaning, how it effects an individual and what are its causes. "
 featuredpost: true
