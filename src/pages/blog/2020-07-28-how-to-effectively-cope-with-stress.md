@@ -24,4 +24,40 @@ Coping just as simple a process as it is complex. There are numerous coping mech
 
 ### Personality
 
-An individual's personality plays a role in how they perceive a situation, and how they handle it.
+An individual's personality plays a role in how they perceive a situation, and how they handle it. Some people experience stress much more strongly than others. These individuals may encounter severe negative symptoms and find it exceptionally difficult to cope with stress. This is partly due to their personality.
+
+Research suggests that individuals with a much more optimistic personality type face mild symptoms of stress; whereas, individuals with a neurotic and/or pessimistic personality type have to face the adverse effects of stress at higher levels. Similarly, individuals with higher self esteem and a stronger sense of personal control are able to deal with stressful situations much more effectively, compared to those who lack these traits.
+
+### **Social Support**
+
+Social support refers to the comfort, caring, esteem, or help available to a person from other people or groups (Uchino, 2004). Social support has proven to be extremely beneficial for individuals going through a stressful situation. Social support doesn't necessarily get restricted to emotional support; it also includes support in the form of tangible items, and informational support. Having a strong social support network, be it friends, family, partners, or a support group, helps an individuals to effectively deal with stress.
+
+### Exercising 
+
+![](/img/39213.jpg)
+
+Exercising is a natural way through which both stress and anxiety and be brought into control. Exercising produces endorphins, that act as natural stress and pain relieving hormones, that help reduce stress levels. Any physical activity is directly linked to putting the person in a good mood through the release of hormones such as endorphins.
+
+### Organisation and Preparation
+
+Someone who is organised, prepared for any situation, and has time management skills, automatically reduces any stress in areas related to time constraint. Being organised helps a person complete all their work by the deadline and eliminate any procrastination. Staying on time can help bring both stress and anxiety levels down, especially if they are related to work or exams. 
+
+### Meditation
+
+![](/img/2844687.jpg)
+
+Meditation helps in triggering the body's relaxation response, calming both mind and body. This helps in reversing the state of fight and flight that the body goes into when experiencing a stressful event/situation. It prevents the person from overthinking and stops any harmful effects that could be caused by stress. Meditating, for as less as ten minutes a day, can help reduce stress drastically. 
+
+### Crying and Catharsis
+
+Crying has direct benefits when it comes to stress. Studies suggest that crying helps relieve the person of the stressful response that the body produces when experiencing stress. This form of catharsis has been proven to be extremely beneficial for many individuals going through a stressful event, especially when they feel that the situation is out of their control. It improves a person's mood and helps them think much more clearly when the crying is over. 
+
+### Yoga
+
+![](/img/2806801.jpg)
+
+Over the years, yoga has been proven to be the most beneficial coping mechanism for stress, anxiety, and depression. As with exercising, the body produces endorphins, that help relieve both stress and pain. Yoga also helps in relaxing both the mind and body, and produces greater results when combined with meditation. Practicing yoga, even for a few minutes a day, can help reduce stress. Certain types of yoga that is practiced especially before sleeping, helps in the person relaxing their mind and sleeping much more peacefully. Yoga also helps in reducing blood pressure, and controlling the heart rate.
+
+
+
+Many different types of coping techniques are present to help individuals deal with stress effectively. It is up to the individual to try and find out which techniques provides the best results for them. In today's world, where stress and anxiety are becoming increasingly common, every individual must try these coping mechanisms to help keep them both physically and mentally healthy.
