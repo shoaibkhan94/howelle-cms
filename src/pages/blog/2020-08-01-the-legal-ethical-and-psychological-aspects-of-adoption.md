@@ -5,7 +5,7 @@ author: Tanishqa Nahata
 authordesc: Tanishqa is a student who is extremely passionate about psychology
   and aspires to make a career in this field.
 authorimage: /img/img_20200719_163010.jpg
-date: 2020-08-01T09:27:47.765Z
+date: 2020-08-01T09:30:00.000Z
 description: Discussion on what legal, ethical and psychological aspects should
   be kept in mind while considering adoption.
 featuredpost: true
