@@ -44,3 +44,17 @@ People usually want to adopt really young children, so that they can be a huge p
 Adopting children who have special needs, are differently abled, and have specific mental and emotional requirements, is a difficult task. Parenting these children just the same way as one would parent a child without such characteristics is wrong. The special care and attention needed should be understood prior to the adoption. Abandoning these children after adopting them is the most difficult thing that they will face. The parents should keep their needs in mind and must make sure that they themselves are emotionally and mentally capable of parenting such children.
 
 ### The Psychological Aspects of Adoption
+
+Adoption is a difficult process for both the child being adopted and the family adopting the child. It is the integration of an outsider into the family. This becomes even more complicated when the child is over the age of five or six, and has a much better understanding of the whole process. Adoption can have huge psychological impacts on everyone involved. 
+
+When a family already has one or more children, and then decide to adopt, it can be difficult for the kids to get situated to each other and learn to deal with the divided attention. The children already in the family may easily adapt to the change, but if they don't, then they may learn to harbor resentment towards the adopted child. It becomes very important for the parents and other family members to make sure such resentment does not fester in the mind of any child. 
+
+In many instances, the child adopted has a history of emotion, mental, and/or physical abuse. It becomes the duty of the parents to understand what the child has been through, how that has shaped him/her, and how that child might need space and patience at times. Overcrowding such children can prove to be extremely harmful.
+
+The child might, at times, not be so willing to accept the new change in their life. They may get uncomfortable in the new environment, and more often than not feel like an outsider. This feelings can later manifest in the form of problematic behaviors, so the parents should keep an eye on things, and make the child feel as welcome as possible. 
+
+The environment of a care home or an orphanage are wildly different. From living with many children and wardens, to living with only a few people, this transition can be very lonely sometimes. The family members must make sure that when the child feels lonely, or has a distant feel to them, they must make sure to engage them and provide them with the attention necessary.
+
+
+
+Adoption by no means is an easy and simple process. It can be mentally draining and exhausting for everyone involved. But as complicated as it is, it can also be very rewarding for the child and the parents. The most important thing to be kept in mind is that every child is different, and every process is not the same, so keeping an open mind, learning all that is necessary and being adaptable is the key to a happy and healthy adoption process.
