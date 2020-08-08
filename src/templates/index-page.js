@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import {graphql} from 'gatsby'
+import BlogRoll from "../components/BlogRoll";
 
 import Layout from '../components/Layout'
 
@@ -14,7 +15,7 @@ export const IndexPageTemplate = ({
 	                                  intro,
                                   }) => (
 	<div>
-		<div
+		{/*<div
 			className="full-width-image margin-top-0"
 		>
 			<a
@@ -22,7 +23,7 @@ export const IndexPageTemplate = ({
 				target="_blank"
 				rel="noopener noreferrer"
 			>Start Contributing</a>
-		</div>
+		</div>*/}
 		{/*<div
       className="full-width-image margin-top-0"
       style={{
@@ -118,6 +119,13 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </section>*/}
+		<section className="section">
+			<div className="container">
+				<div className="content">
+					<BlogRoll/>
+				</div>
+			</div>
+		</section>
 	</div>
 )
 

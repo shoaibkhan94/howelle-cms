@@ -97,6 +97,15 @@ export const pageQuery = graphql`
         title
         description
         tags
+        author
+        authordesc
+        authorimage {
+              childImageSharp {
+                    fluid(maxWidth: 120, quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+        }
       }
     }
   }
