@@ -6,7 +6,8 @@ authordesc: Someone who believes in "Date Yourself, Make Yourself"
 authorimage: /img/img_20200720_132734.jpg
 date: 2020-09-09T01:19:43.978Z
 description: In this article we discuss about the meaning of Sex and Intimacy
-  apart from each other. Also, does Casual Sex help in relieving Loneliness.
+  apart from each other. Also, we try and find out if casual Sex help in
+  relieving Loneliness and what affect Casual sex has on an individual.
 featuredpost: true
 featuredimage: /img/683.jpg
 category: Relationships
