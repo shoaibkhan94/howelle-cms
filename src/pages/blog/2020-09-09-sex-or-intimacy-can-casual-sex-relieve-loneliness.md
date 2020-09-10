@@ -16,13 +16,13 @@ tags:
     #mind #psychologybehindcasualsex #intimacy #emotionalintimacy
     #physicalintimacy"
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -61,9 +61,9 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -642,9 +642,9 @@ tags:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -671,7 +671,7 @@ tags:
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -683,9 +683,9 @@ The Merriam Webster dictionary defines the word sex as "heterosexual intercourse
 
 Then why do most people go for "no strings attached" or "casual hook-ups" over a dedicated relationship these days? Is the "hook-up culture" taking over upon us? What gets us drawn to it? It can be easy access to sexual pleasure, without giving in the efforts required for a serious commitment. It can also be the fact that the "physical needs" are to be fulfilled once the body gets used to the sexual contacts from a past relationship.
 
-Talking of past relationships, on a psychological level, an individual may try to fill a void caused by a sour past. A person may try to make up for the missing warmth and love through sexual passion.
+Talking of past relationships, on a psychological level, an individual may try to fill a void caused by a sour past. A person may try to make up for the missing warmth and love through sexual passion. Wonder why Kabir Singh was "Kabir Singh" after his lover got married to another man?
 
-‘Intimacy’ in general means ‘closeness”. It can further be divided into emotional and physical intimacy. Closeness in thoughts and emotions, i.e closeness of mind is emotional intimacy. On the other hand, closeness in touch and feel is physical intimacy. We often get confused between the two and try to cover the gap caused by one through the other.
+‘Intimacy’ in general means ‘closeness”. It can further be divided into emotional and physical intimacy. Closeness in thoughts and emotions, i.e closeness of mind is emotional intimacy. On the other hand, closeness in touch and feel is physical intimacy. We often get confused between the two and try to cover the gap caused by one through the other. Going back to our Bollywood reference, it's quite clear that in the movie Kabir Singh, the protagonist was longing for every bit of the relationship shared with his past lover. Yet was trying to fill in the 'emotional void' by physical means.
 
 Are Dating apps like Tinder used to provide a physical intimacy to people actually longing for emotional intimacy?
 
