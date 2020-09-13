@@ -707,16 +707,6 @@ On the other hand, if an individual considers sexual intercourse as the next ste
 
 The perception of sex depends on the upbringing, education and experiences of a person. When it comes to mind and thoughts, no two individuals are the same. A hundred minds may have a hundred different perceptions which lead to the way they understand and act upon things. Casual Sex is no exception.
 
-Attribution: 
 
-<!--StartFragment-->
-
-<a href="https://www.freepik.com/vectors/love">Love vector created by vectorpouch - www.freepik.com</a>
-
-https://www.psychologytoday.com/us/blog/love-and-sex-in-the-digital-age/201506/what-are-the-psychological-effects-casual-sex
-
-https://www.psychologytoday.com/us/blog/love-and-sex-in-the-digital-age/201506/what-are-the-psychological-effects-casual-sex
-
-<!--EndFragment-->
 
 <!--EndFragment-->
