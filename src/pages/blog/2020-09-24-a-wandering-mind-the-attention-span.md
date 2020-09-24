@@ -10,7 +10,8 @@ featuredpost: true
 featuredimage: /img/11370.jpg
 category: Personality
 tags:
-  - "#AttentionSpan"
+  - "#AttentionSpan #HowToMeasureAttentionSpan #WanderingMInd #psychology
+    #MentalHealth"
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
