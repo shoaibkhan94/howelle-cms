@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Eating Disorder: A mental condition?"
+title: "Eating Disorders: A mental condition?"
 author: Aditi Ladwal
 authordesc: Someone who believes in " Date Yourself, Make Yourself"
 authorimage: /img/img_20200720_132734.jpg
